@@ -1,0 +1,1 @@
+<?php  echo '<h1>Sorry! Something went wrong</h1>';?>
